@@ -1,12 +1,12 @@
-# 🚀 E2E UI Automation Framework (Java, Selenium, TestNG)
+#  E2E UI Automation Framework (Java, Selenium, TestNG)
 
-## 🌟 Project Overview
+##  Project Overview
 
 This project implements a robust End-to-End (E2E) UI test automation framework for the Sauce Labs Demo E-commerce Inventory Management Application using industry-standard tools.
 
 The goal is to ensure the critical business flows—User Authentication and Product Purchase—are stable and defect-free across deployments.
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 This framework utilizes the following technologies and design patterns:
 
@@ -21,7 +21,7 @@ This framework utilizes the following technologies and design patterns:
 [Image of Page Object Model diagram]
  |
 
-## ⚙️ Prerequisites
+##  Prerequisites
 
 To run this project, you need the following installed:
 
@@ -30,12 +30,12 @@ To run this project, you need the following installed:
 * An Integrated Development Environment (IDE) like **IntelliJ IDEA** or **VS Code**
 * A browser like **Google Chrome** (Selenium will automatically manage the driver, but the browser must be installed).
 
-## 🚀 Execution Instructions
+##  Execution Instructions
 
 Follow these steps to clone the repository and run the automated test suite.
 
 ### 1. Clone the Repository
 
 ```bash
-git clone (https://github.com/ParamiDinethma/E2E-UI-Automation-Framework-Java-Selenium-TestNG-.git)
-cd E2E-UI-Automation-Framework-Java-Selenium-TestNG
+git clone https://github.com/ParamiDinethma/E2E-UI-Automation-Framework.git
+cd E2E-UI-Automation-Framework
