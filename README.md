@@ -37,5 +37,5 @@ Follow these steps to clone the repository and run the automated test suite.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YourUsername/e2e-saucedemo.git
-cd e2e-saucedemo
+git clone (https://github.com/ParamiDinethma/E2E-UI-Automation-Framework-Java-Selenium-TestNG-.git)
+cd E2E-UI-Automation-Framework-Java-Selenium-TestNG
