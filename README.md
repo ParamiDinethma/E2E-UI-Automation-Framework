@@ -18,7 +18,7 @@ This framework utilizes the following technologies and design patterns:
 | **Build Tool** | Maven | Manages project dependencies (Selenium, TestNG) and handles the build lifecycle. |
 | **Design Pattern** | Page Object Model (POM) | Separates test logic from element locators for code maintenance and reusability. 
 
-[Image of Page Object Model diagram]
+
  |
 
 ##  Prerequisites
